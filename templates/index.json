@@ -119,6 +119,18 @@
         "text_color": ""
       }
     },
+    "f0b4a40d-96ff-45a9-8300-9a79481846fe": {
+      "type": "custom-html",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "html": "<h2 style=\"text-align:center; font-size:25px;font-weight:800;\">GET READY TO DIVE INTO VAPING PARADISE<\/h2>\n<p style=\"text-align:center;\">We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "d4da4f1e-8547-4067-a792-8be25c5298b3": {
       "type": "rich-text",
       "blocks": {
@@ -157,19 +169,6 @@
         "background": "",
         "background_gradient": "linear-gradient(325deg, rgba(NaN, NaN, NaN, 0) 1%, rgba(3, 3, 3, 1) 100%)",
         "text_color": "#000000"
-      }
-    },
-    "f0b4a40d-96ff-45a9-8300-9a79481846fe": {
-      "type": "custom-html",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<h2 style=\"text-align:center; font-size:25px;font-weight:800;\">GET READY TO DIVE INTO VAPING PARADISE<\/h2>\n<p style=\"text-align:center;\">We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "image-link-blocks": {
@@ -748,8 +747,8 @@
   "order": [
     "a80ddc7d-2132-4ff9-b493-40120d5a5c48",
     "b5386b34-134f-4a36-a692-982d7e9009ef",
-    "d4da4f1e-8547-4067-a792-8be25c5298b3",
     "f0b4a40d-96ff-45a9-8300-9a79481846fe",
+    "d4da4f1e-8547-4067-a792-8be25c5298b3",
     "image-link-blocks",
     "image-with-text-overlay",
     "media-grid",
