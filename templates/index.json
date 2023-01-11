@@ -133,6 +133,7 @@
     },
     "d4da4f1e-8547-4067-a792-8be25c5298b3": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "d32762ad-753e-4189-ad1e-3b32fb0f3222": {
           "type": "subheading",
@@ -375,10 +376,10 @@
       ],
       "settings": {
         "full_width": true,
-        "block_size": "medium",
+        "block_size": "large",
         "subheading": "",
-        "title": "",
-        "content": "",
+        "title": "GET READY TO DIVE INTO VAPING PARADISE",
+        "content": "<p><strong>We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/strong><\/p>",
         "link_url": "",
         "link_text": "",
         "background": "",
