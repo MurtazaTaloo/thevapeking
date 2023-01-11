@@ -125,51 +125,10 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": false,
-        "html": "<h2 style=\"text-align:center; font-size:25px;font-weight:800;\">GET READY TO DIVE INTO VAPING PARADISE<\/h2>\n<p style=\"text-align:center;\">We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/p>",
+        "html": "<h2 style=\"text-align:center; font-size:30px;font-weight:800;\">GET READY TO DIVE INTO VAPING PARADISE<\/h2>\n<p style=\"text-align:center;\">We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "d4da4f1e-8547-4067-a792-8be25c5298b3": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "d32762ad-753e-4189-ad1e-3b32fb0f3222": {
-          "type": "subheading",
-          "settings": {
-            "text": "We offer an array of premium vapes and top-notch brands that will give you the ultimate vape experience."
-          }
-        },
-        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Get ready to dive into a vaping paradise",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-2": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "content": "<p>We offer an array of premium vapes and top-notch brands that will give you the ultimate vape experience.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "d32762ad-753e-4189-ad1e-3b32fb0f3222",
-        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-1",
-        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "linear-gradient(325deg, rgba(NaN, NaN, NaN, 0) 1%, rgba(3, 3, 3, 1) 100%)",
-        "text_color": "#000000"
       }
     },
     "image-link-blocks": {
@@ -376,7 +335,7 @@
       ],
       "settings": {
         "full_width": true,
-        "block_size": "large",
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
@@ -749,7 +708,6 @@
     "a80ddc7d-2132-4ff9-b493-40120d5a5c48",
     "b5386b34-134f-4a36-a692-982d7e9009ef",
     "f0b4a40d-96ff-45a9-8300-9a79481846fe",
-    "d4da4f1e-8547-4067-a792-8be25c5298b3",
     "image-link-blocks",
     "image-with-text-overlay",
     "media-grid",
