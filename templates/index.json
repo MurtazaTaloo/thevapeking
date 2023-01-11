@@ -125,7 +125,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": false,
-        "html": "<h2 style=\"text-align:center; font-size:30px;font-weight:800;\">GET READY TO DIVE INTO VAPING PARADISE<\/h2>\n<p style=\"text-align:center;\">We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/p>",
+        "html": "<h2 style=\"text-align:center; font-size:30px;font-weight:800; line-height:40px;\">GET READY TO DIVE INTO VAPING PARADISE<\/h2>\n<p style=\"text-align:center;\">We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
