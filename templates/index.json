@@ -1,0 +1,762 @@
+{
+  "sections": {
+    "a80ddc7d-2132-4ff9-b493-40120d5a5c48": {
+      "type": "video",
+      "blocks": {
+        "template--17455558033724__a80ddc7d-2132-4ff9-b493-40120d5a5c48-16727946865a8d21e8-0": {
+          "type": "play",
+          "settings": {
+          }
+        },
+        "59213ecf-908b-430f-9a31-bf19d097a8f7": {
+          "type": "heading",
+          "settings": {
+            "text": "TAKE A HIT OF FLAVOR EXPLOSION",
+            "heading_tag": "h2"
+          }
+        },
+        "3b6e89a4-3930-4f07-846a-42d31856ae33": {
+          "type": "subheading",
+          "settings": {
+            "text": "We know vaping. We’ve been there from the beginning."
+          }
+        },
+        "dabe5215-108b-4ae1-bc9b-fc59dc30b457": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>A wide selection of vapes by popular brands all in one place.<\/p>"
+          }
+        },
+        "4c78a2c8-04c1-47fe-9cfe-057c2fba29f7": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "xl",
+            "text": "ALL VAPES",
+            "url": "shopify:\/\/collections\/all-vapes",
+            "background": "#daa520",
+            "text_color": "#daa520"
+          }
+        }
+      },
+      "block_order": [
+        "template--17455558033724__a80ddc7d-2132-4ff9-b493-40120d5a5c48-16727946865a8d21e8-0",
+        "59213ecf-908b-430f-9a31-bf19d097a8f7",
+        "3b6e89a4-3930-4f07-846a-42d31856ae33",
+        "dabe5215-108b-4ae1-bc9b-fc59dc30b457",
+        "4c78a2c8-04c1-47fe-9cfe-057c2fba29f7"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "md",
+        "video": "shopify:\/\/files\/videos\/Vape Hero Video.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "b5386b34-134f-4a36-a692-982d7e9009ef": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--17455558033724__b5386b34-134f-4a36-a692-982d7e9009ef-1672794808229ef536-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-timer",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#daa520",
+            "title": "Express Shipping",
+            "content": "<p> Satisfy those cravings in no time! Australia-wide express shipping on all orders.<\/p>"
+          }
+        },
+        "template--17455558033724__b5386b34-134f-4a36-a692-982d7e9009ef-1672794808229ef536-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/Untitled_design_91.png",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "",
+            "title": "Australian Owned",
+            "content": "<p>Take pride in knowing your purchase is supporting a 100% Aussie owned and operated business.<\/p>"
+          }
+        },
+        "template--17455558033724__b5386b34-134f-4a36-a692-982d7e9009ef-1672794808229ef536-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#1a1a1a",
+            "icon_color": "#daa520",
+            "title": "Local Customer Support",
+            "content": "<p>Our unparalleled customer support team is here to make sure that you get the help  you need.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17455558033724__b5386b34-134f-4a36-a692-982d7e9009ef-1672794808229ef536-0",
+        "template--17455558033724__b5386b34-134f-4a36-a692-982d7e9009ef-1672794808229ef536-2",
+        "template--17455558033724__b5386b34-134f-4a36-a692-982d7e9009ef-1672794808229ef536-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "d4da4f1e-8547-4067-a792-8be25c5298b3": {
+      "type": "rich-text",
+      "blocks": {
+        "d32762ad-753e-4189-ad1e-3b32fb0f3222": {
+          "type": "subheading",
+          "settings": {
+            "text": "We offer an array of premium vapes and top-notch brands that will give you the ultimate vape experience."
+          }
+        },
+        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Get ready to dive into a vaping paradise",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-2": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>We offer an array of premium vapes and top-notch brands that will give you the ultimate vape experience.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d32762ad-753e-4189-ad1e-3b32fb0f3222",
+        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-1",
+        "template--17455558033724__d4da4f1e-8547-4067-a792-8be25c5298b3-167296194433f23f34-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "linear-gradient(325deg, rgba(NaN, NaN, NaN, 0) 1%, rgba(3, 3, 3, 1) 100%)",
+        "text_color": "#000000"
+      }
+    },
+    "f0b4a40d-96ff-45a9-8300-9a79481846fe": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<h2 style=\"text-align:center; font-size:25px;font-weight:800;\">GET READY TO DIVE INTO VAPING PARADISE<\/h2>\n<p style=\"text-align:center;\">We offer an array of premium products and top-notch brands that will give you the ultimate vape experience.<\/p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image-link-blocks": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "1664424046b00c932c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IGET_BAR.png",
+            "stretch_image": false,
+            "link_text": "IGET BAR",
+            "link_url": "shopify:\/\/collections\/iget-bar-3500-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "rgba(0,0,0,0)",
+            "overlay_opacity": 0
+          }
+        },
+        "d8b6785b-8c62-4208-a0ce-4387128bcfe6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1200X1600.png",
+            "stretch_image": false,
+            "link_text": "IGET DUAL",
+            "link_url": "shopify:\/\/collections\/iget-dual-2100-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_7bbb8df0-3185-4797-a239-9b3aab1c3f5f.png",
+            "stretch_image": false,
+            "link_text": "IGET GOAT",
+            "link_url": "shopify:\/\/collections\/iget-goat-5000-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12_9d46ddac-ef4c-4c88-9f74-a887a9ebce5a.png",
+            "stretch_image": false,
+            "link_text": "IGET KING",
+            "link_url": "shopify:\/\/collections\/iget-king-2600-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_496f9779-f172-4c52-8ecb-875347b5aa3a.png",
+            "stretch_image": false,
+            "link_text": "IGET LEGEND",
+            "link_url": "shopify:\/\/collections\/iget-legend-4000-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9_3b0ca29d-ed00-436d-8ef1-2a823c905dbf.png",
+            "stretch_image": false,
+            "link_text": "IGET MEGA",
+            "link_url": "shopify:\/\/collections\/iget-mega-3000-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "dad9a2bd-9188-480e-919e-c8a235898a49": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11_4ef05351-a06f-49f2-b72e-323feecd8007.png",
+            "stretch_image": false,
+            "link_text": "IGET SHION",
+            "link_url": "shopify:\/\/collections\/iget-600-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "907c947a-6416-4a62-ac25-8aec1c575701": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10_78f9d24e-c1e5-4f38-b01b-bd465a7b43ae.png",
+            "stretch_image": false,
+            "link_text": "IGET XXL",
+            "link_url": "shopify:\/\/collections\/iget-xxl-1800-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "7efa32a8-d002-499c-82a3-b4f8a5f972a3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_4fc9c44d-0a29-468d-b29b-30acf06fe006.png",
+            "stretch_image": false,
+            "link_text": "HQD CUVIE",
+            "link_url": "shopify:\/\/collections\/hqd-cuvie-300-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "55fe9cf6-c7b7-4eee-b515-644449e57a31": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_c5446b74-d216-49e2-aff1-68773a9dc82f.png",
+            "stretch_image": false,
+            "link_text": "HQD CUVIE PLUS",
+            "link_url": "shopify:\/\/collections\/hqd-cuvie-plus-1200-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "4e531984-81de-42c4-8245-18878eada5dd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e574d076-3076-4e39-8c66-efffa4503e07.png",
+            "stretch_image": false,
+            "link_text": "HQD SUPER",
+            "link_url": "shopify:\/\/collections\/hqd-super-600-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "a47630d9-c370-4755-8eba-66b0241e9c4d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_30c4582a-5946-4f88-a2d2-39a8d8a923cb.png",
+            "stretch_image": false,
+            "link_text": "HQD BOX",
+            "link_url": "shopify:\/\/collections\/hqd-box-4000-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "557b14c8-01bb-416d-9e89-e60e7b70d9c7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "stretch_image": false,
+            "link_text": "GUNNPOD CLASSIC",
+            "link_url": "shopify:\/\/collections\/gunnpod-2000-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "8689a1d1-73e3-4ba0-8ee8-8ca51dca2778": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_0b40629b-9792-476b-ac48-4aa702c9ea96.png",
+            "stretch_image": false,
+            "link_text": "GUNNPOD META",
+            "link_url": "shopify:\/\/collections\/gunnpod-4000-puffs",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1664424046b00c932c-0",
+        "d8b6785b-8c62-4208-a0ce-4387128bcfe6",
+        "1664424046b00c932c-1",
+        "1664424046b00c932c-2",
+        "1664424046b00c932c-3",
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
+        "dad9a2bd-9188-480e-919e-c8a235898a49",
+        "907c947a-6416-4a62-ac25-8aec1c575701",
+        "7efa32a8-d002-499c-82a3-b4f8a5f972a3",
+        "55fe9cf6-c7b7-4eee-b515-644449e57a31",
+        "4e531984-81de-42c4-8245-18878eada5dd",
+        "a47630d9-c370-4755-8eba-66b0241e9c4d",
+        "557b14c8-01bb-416d-9e89-e60e7b70d9c7",
+        "8689a1d1-73e3-4ba0-8ee8-8ca51dca2778"
+      ],
+      "settings": {
+        "full_width": true,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "NEW TO VAPING?",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Discover the new vaping craze with our top-rated vapes – they're guaranteed crowd-pleasers!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/Untitled_design_93_6232027c-3351-4ea9-adba-6328042dc720.png",
+        "mobile_image": "shopify:\/\/shop_images\/Untitled_1300_x_1500_px.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 38
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "item-1": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-2": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-3": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "29246d34-c6e0-4373-84f6-b15e57736a00": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hqd_box.jpg",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "29246d34-c6e0-4373-84f6-b15e57736a00"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "cc06a456-8859-4dc4-ab95-315a80d9c54f": {
+      "type": "revealed-image-on-scroll",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4_056a4351-357d-4f0f-82c3-d7d68c85f2d0.png",
+        "mobile_image": "shopify:\/\/shop_images\/Untitled_1125_x_2000_px.png",
+        "subheading": "OUR MISSION IS TO HELP PEOPLE QUIT SMOKING FOR GOOD",
+        "title": "JOIN THOUSANDS OF OTHERS WHO HAVE MADE THE SWITCH",
+        "background": "",
+        "text_color_inside": "#ffffff",
+        "text_color_outside": "#000000"
+      }
+    },
+    "14d83cd9-441a-4e84-87dc-4cc010d4de02": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "template--17455558033724__14d83cd9-441a-4e84-87dc-4cc010d4de02-1673315380be4f12d5-0": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Steve Gray",
+            "title": "",
+            "content": "<p>Heaps of options, best prices and received my order in 2 days. Will be ordering again soon.<\/p>"
+          }
+        },
+        "template--17455558033724__14d83cd9-441a-4e84-87dc-4cc010d4de02-1673315380be4f12d5-1": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Joe Geran",
+            "title": "",
+            "content": "<p>Shipping was quick. Very happy with the purchase.<\/p>"
+          }
+        },
+        "template--17455558033724__14d83cd9-441a-4e84-87dc-4cc010d4de02-1673315380be4f12d5-2": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sam Corbino",
+            "title": "",
+            "content": "<p>Ordered the wrong product but Gary from customer service was very helpful with the exchange process.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17455558033724__14d83cd9-441a-4e84-87dc-4cc010d4de02-1673315380be4f12d5-0",
+        "template--17455558033724__14d83cd9-441a-4e84-87dc-4cc010d4de02-1673315380be4f12d5-1",
+        "template--17455558033724__14d83cd9-441a-4e84-87dc-4cc010d4de02-1673315380be4f12d5-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "HEAR FROM OUR VAPERS",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "74888724-edae-413b-b1c6-c68d8500365f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17455558033724__74888724-edae-413b-b1c6-c68d8500365f-1673316377d059758f-0": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--17455558033724__74888724-edae-413b-b1c6-c68d8500365f-1673316377d059758f-1": {
+          "type": "heading",
+          "settings": {
+            "text": "HEAR FROM OUR VAPERS",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--17455558033724__74888724-edae-413b-b1c6-c68d8500365f-1673316377d059758f-2": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17455558033724__74888724-edae-413b-b1c6-c68d8500365f-1673316377d059758f-0",
+        "template--17455558033724__74888724-edae-413b-b1c6-c68d8500365f-1673316377d059758f-1",
+        "template--17455558033724__74888724-edae-413b-b1c6-c68d8500365f-1673316377d059758f-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Steve Gray",
+            "content": "Heaps of options, best prices and received my order in 2 days. Will be ordering again soon.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "16644243327ba53d2a-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Joe Geran",
+            "content": "Shipping was quick. Very happy with the purchase.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "7d986de3-9026-4bba-b4a6-af8ab1a48b33": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Sam Corbino",
+            "content": "Ordered the wrong product but Gary from customer service was very helpful with the exchange process.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "16644243327ba53d2a-1",
+        "7d986de3-9026-4bba-b4a6-af8ab1a48b33"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Currently, we only ship within Australia.<\/p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How soon do you ship the order?",
+            "content": "<p>Usually, the orders received before 12 pm are shipped the same day. During busy times it may take up to 48 hours to ship the order.<\/p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "What shipping service do you use?",
+            "content": "<p>We use Australia Post Express Shipping only.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 350,
+        "support_hours": "Our customer support is available Monday to Friday: 9am-5pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "CONTAC US",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "#000000",
+        "button_text_color": "#ffffff",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "a80ddc7d-2132-4ff9-b493-40120d5a5c48",
+    "b5386b34-134f-4a36-a692-982d7e9009ef",
+    "d4da4f1e-8547-4067-a792-8be25c5298b3",
+    "f0b4a40d-96ff-45a9-8300-9a79481846fe",
+    "image-link-blocks",
+    "image-with-text-overlay",
+    "media-grid",
+    "cc06a456-8859-4dc4-ab95-315a80d9c54f",
+    "14d83cd9-441a-4e84-87dc-4cc010d4de02",
+    "74888724-edae-413b-b1c6-c68d8500365f",
+    "press",
+    "faq"
+  ]
+}

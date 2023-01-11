@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h1"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#daa520",
+            "atc_button_text_color": "#000000",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "ba5c742b-1be7-4dd0-9f48-01e36b03c5b4": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "ba5c742b-1be7-4dd0-9f48-01e36b03c5b4",
+        "description"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 50,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "71a7150e-421c-4f3c-891c-f1c69fdfccb4": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "{{product.description}}",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "88e4faae-4818-49c1-ab1b-853674b8cd84": {
+      "type": "faq",
+      "blocks": {
+        "template--17455558000956__88e4faae-4818-49c1-ab1b-853674b8cd84-167279617325416842-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Currently, we only ship within Australia.<\/p>"
+          }
+        },
+        "template--17455558000956__88e4faae-4818-49c1-ab1b-853674b8cd84-167279617325416842-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>Usually, the orders received before 12 pm are shipped the same day. During busy times it may take up to 48 hours to ship the order.<\/p>"
+          }
+        },
+        "template--17455558000956__88e4faae-4818-49c1-ab1b-853674b8cd84-167279617325416842-2": {
+          "type": "item",
+          "settings": {
+            "title": "What shipping service do you use?",
+            "content": "<p>We use Australia Post Express Shipping only.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17455558000956__88e4faae-4818-49c1-ab1b-853674b8cd84-167279617325416842-0",
+        "template--17455558000956__88e4faae-4818-49c1-ab1b-853674b8cd84-167279617325416842-1",
+        "template--17455558000956__88e4faae-4818-49c1-ab1b-853674b8cd84-167279617325416842-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 9am-5pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "CONTACT US",
+        "button_url": "shopify:\/\/pages\/contact",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "#000000",
+        "button_text_color": "#ffffff",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "recommendations_count": 10,
+        "products": [
+
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "71a7150e-421c-4f3c-891c-f1c69fdfccb4",
+    "88e4faae-4818-49c1-ab1b-853674b8cd84",
+    "product-recommendations"
+  ]
+}
